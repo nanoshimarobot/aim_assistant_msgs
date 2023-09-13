@@ -1,0 +1,1 @@
+aim_assistant_msgs/Pole[] poles
